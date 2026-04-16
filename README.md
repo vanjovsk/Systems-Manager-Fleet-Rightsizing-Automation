@@ -3,7 +3,7 @@
 # AWS Systems Manager: Fleet Rightsizing Automation
 
 ## 📖 Scenario
-In a simulated enterprise environment spanning 3 regions with 10,000 instances, a cost audit identified 2,500 instances as over-provisioned. The objective was to resize these instances (t3.small → t3.micro) efficiently without manual intervention.
+I simulated enterprise environment spanning 3 regions with 10,000 instances, a cost audit identified 2,500 instances as over-provisioned. The objective was to resize these instances (t3.small → t3.micro) efficiently without manual intervention.
 
 ## ⚙️ Architecture & Tools
 * **AWS Systems Manager (SSM) Automation:** Used to orchestrate the workflow.
